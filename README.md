@@ -1,7 +1,7 @@
 # AuTara - Empathetic Mental/Physical Health Companion
 
 <div align="center">
-  <img src="[assets/logo.png](https://github.com/AuTara/AutaraUI/blob/main/lib/assets/logo/logo_icon.png)" alt="AuTara" width="200"/>
+  <img src="https://github.com/AuTara/AutaraUI/blob/main/lib/assets/logo/logo_icon.png" alt="AuTara" width="200"/>
   <p><em>Your AI companion for mental well-being and Physical being </em></p>
 </div>
 
